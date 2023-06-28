@@ -16,3 +16,6 @@ https://user-images.githubusercontent.com/37301000/249176981-8f3ac5fd-1f2b-41b0-
 
 ## 夏日森林项目
 https://user-images.githubusercontent.com/37301000/249351858-725eb63b-3d42-40a2-98b6-6cc637ba9200.mp4
+
+## Blend Shape Live演示
+https://user-images.githubusercontent.com/37301000/249353443-679234a0-861c-4fe3-92cc-2bf7ab341e3a.mp4
