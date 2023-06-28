@@ -9,6 +9,9 @@
 ![](img/QQ截图20230626235645.png)
 
 ![](img/QQ截图20230626235702.png)
+## 赛博朋克项目
+
+https://user-images.githubusercontent.com/37301000/249358096-7239498d-1333-4fcf-960c-2b55a5a0213b.mp4
 
 ## 工业流水线项目
 
