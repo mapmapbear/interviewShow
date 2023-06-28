@@ -19,3 +19,9 @@ https://user-images.githubusercontent.com/37301000/249351858-725eb63b-3d42-40a2-
 
 ## Blend Shape Live演示
 https://user-images.githubusercontent.com/37301000/249353443-679234a0-861c-4fe3-92cc-2bf7ab341e3a.mp4
+
+
+## Unity资源导出插件
+![image](https://github.com/mapmapbear/interviewShow/assets/37301000/4e77b209-6d18-424b-89cf-664960e5af54)
+![image](https://github.com/mapmapbear/interviewShow/assets/37301000/7e41c133-cb0a-4408-8f68-b16a6ca77a74)
+
